@@ -1,0 +1,12 @@
+"pid","property","propextent_txt"
+"1","-9",NULL
+"2","-9","Minor (likely < $1 million)"
+"3","-9","Unknown"
+"4","0",NULL
+"5","0","Minor (likely < $1 million)"
+"6","0","Unknown"
+"7","1",NULL
+"8","1","Catastrophic (likely >= $1 billion)"
+"9","1","Major (likely >= $1 million but < $1 billion)"
+"10","1","Minor (likely < $1 million)"
+"11","1","Unknown"
